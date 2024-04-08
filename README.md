@@ -1,0 +1,6 @@
+IP Colegiul Julia Haşdeu" din Cahul
+Biletul N№3
+Disciplina:S.08.0.028 Asistență în managementul proiectelor software Specialitatea: Programarea şi analiza produselor program
+Grupa PAPP2041
+Creați un repozitoriu nou pe GitHub, în cadrul organizației PAPP2041 cu numele ExamenNume Prenume. Clonați repozitoriul pe calculatorul local. În repozitoriul local adăugați un fişier README.md" cu conţinutul numărul biletului şi descrierea proiectului, adăugați un fişier gitignore, care va ignora încărcarea tuturor fişierelor cu extensia log" şi directoriul node_modules".
+Creaţi ramura Testare-1" şi adăugați în ea structura unui proiect web: directoriile css, js, image, config cu câte un fişier corespunzător şi două fişiere HTML index.html şi portfolio.html, legate cu referințe între ele. Faceţi commit-uri periodice pentru fiecare creare şi adăugare de fişier şi directoriu, utilizând un mesaj clar şi precis pentru fiecare commit. După finalizare împingeți ramura Testare-1" pe GitHub. Concatenaţi ramura „Testare-1" cu ramura principală "main" sau "master", folosind linia de comandă sau terminalul Git.S
